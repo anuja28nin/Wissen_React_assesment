@@ -1,0 +1,33 @@
+label {
+  color: #1a1a8c;
+  display: block;
+  margin-top: 10px;
+}
+.jj{
+  font-size: 14px !important;
+}
+.card-container.card {
+  max-width: 380px !important;
+  padding: 40px 40px;
+}
+.top-label{
+  max-width: 350px !important;
+  padding: 40px 40px;
+}
+.card {
+  background-color: white;
+  padding: 20px 25px 20px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  border-color: white;
+}
+
+.profile-img-card {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
